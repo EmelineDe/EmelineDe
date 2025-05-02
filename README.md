@@ -18,7 +18,6 @@
 
 🔹 [**GoWebApp_Front**](https://github.com/EmelineDe/GoWebApp_Front) – Front-end d'une application Vue3/Tailwind  
 🔹 [**GoWebApp_Back**](https://github.com/EmelineDe/GoWebApp_Back) – API Node.js avec TypeScript  
-🔹 [**Portfolio**](https://github.com/EmelineDe/Portfolio) – Site personnel pour présenter mes projets et mon parcours React
 🔹 [**Blog_Voyage**](https://github.com/EmelineDe/Blog_Voyage) – Application PHP PDO / AJAX
 
 👉 Découvre aussi mon [**portfolio**](https://github.com/EmelineDe/Portfolio)
@@ -28,9 +27,9 @@
 ## 📫 Me contacter
 
 📍 France  
-📧 _[delobel.emeline@gmail.com]_  
+📧 [delobel.emeline@gmail.com] 
 🌐 [LinkedIn](https://linkedin.com/in/emeline-d-6915a417a)
-📁 Mon portfolio : _[https://portfolio-emelinedelobel.fr]_
+📁 Mon [portfolio]:(https://portfolio-emelinedelobel.fr)
 
 ---
 
