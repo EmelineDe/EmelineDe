@@ -27,9 +27,9 @@
 ## 📫 Me contacter
 
 📍 France  
-📧 [delobel.emeline@gmail.com] 
+📧 delobel.emeline@gmail.com 
 🌐 [LinkedIn](https://linkedin.com/in/emeline-d-6915a417a)
-📁 Mon [portfolio]:(https://portfolio-emelinedelobel.fr)
+📁 Mon [**portfolio**](https://portfolio-emelinedelobel.fr)
 
 ---
 
