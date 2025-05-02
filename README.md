@@ -14,6 +14,20 @@
 
 ---
 
+### 🧰 Outils & langages
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat&logo=vuedotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwindcss)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+
+---
+
 ## 🚀 Projets récents
 
 🔹 [**GoWebApp_Front**](https://github.com/EmelineDe/GoWebApp_Front) – Front-end d'une application Vue3/Tailwind  
