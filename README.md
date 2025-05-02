@@ -28,7 +28,7 @@
 
 ---
 
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=EmelineDe&layout=compact&theme=gruvbox)
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=EmelineDe&layout=compact&theme=radical)
 
 
 ## 🚀 Projets récents
