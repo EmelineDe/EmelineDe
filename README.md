@@ -28,6 +28,16 @@
 
 ---
 
+### 📊 Statistiques GitHub
+
+![EmelineDe's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmelineDe&show_icons=true&theme=default&hide=issues&count_private=true)
+
+---
+
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=EmelineDe&layout=compact&theme=default)
+
+
+
 ## 🚀 Projets récents
 
 🔹 [**GoWebApp_Front**](https://github.com/EmelineDe/GoWebApp_Front) – Front-end d'une application Vue3/Tailwind  
