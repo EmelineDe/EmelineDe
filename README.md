@@ -14,11 +14,6 @@
 
 ---
 
-### 🐍 Activité GitHub animée
-
-![snake gif](https://github.com/EmelineDe/EmelineDe/blob/output/github-contribution-grid-snake.svg)
-
-
 ### 🧰 Outils & langages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
