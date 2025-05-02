@@ -28,14 +28,7 @@
 
 ---
 
-### 📊 Statistiques GitHub
-
-![EmelineDe's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmelineDe&show_icons=true&theme=default&hide=issues&count_private=true)
-
----
-
-![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=EmelineDe&layout=compact&theme=default)
-
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=EmelineDe&layout=compact&theme=gruvbox)
 
 
 ## 🚀 Projets récents
